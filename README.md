@@ -80,6 +80,23 @@
 ### Результат
 **🚨 P.S. При поиске и фильтрации персонажей отображается максимум 30 результатов, чтобы не перегружать графический интерфейс.**
 
+<img width="1002" height="732" alt="image" src="https://github.com/user-attachments/assets/02835288-1e51-42fd-ad35-d7114ad3d34c" />
+
+<img width="1002" height="732" alt="image" src="https://github.com/user-attachments/assets/6c466c2d-ff01-4aa3-b675-972d47ed6849" />
+
+<img width="1002" height="732" alt="image" src="https://github.com/user-attachments/assets/a38167c8-762e-4fbc-8182-04dca8cb83c1" />
+
+<img width="995" height="735" alt="image" src="https://github.com/user-attachments/assets/ee26be07-b32b-4b8e-b710-9887422b8e9c" />
+
+<img width="993" height="728" alt="image" src="https://github.com/user-attachments/assets/bef1ed2e-9e12-4d1e-af86-bb9fef45be53" />
+
+<img width="991" height="724" alt="image" src="https://github.com/user-attachments/assets/7c0ae12d-e874-48a6-962e-a3285fecd06f" />
+
+
+
+
+
+
 
 
 
